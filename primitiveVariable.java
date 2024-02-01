@@ -1,7 +1,7 @@
 public class primitiveVariable {
     public static void main(String[] args){
 byte age =90;
-long viewsCount=4224_42_342L;
+long viewsCount=4224_42_3_3224_42L;
 float price = 45.99F;
  char letter = 'Z';
  boolean isEngaged=true;
