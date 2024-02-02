@@ -19,5 +19,12 @@ public class StringApplication {
 
          System.out.println(message.replace("Joy", "ABUL"));
         //string theke akta jinish replace kora jay . eita message variable kee kokhono notun kore upload kore na
+
+        System.out.println(message.toLowerCase());
+        // variable er sob gula lower case e nniya jayy
+        System.out.println(message.toUpperCase());
+        //all variable ke upper case e niya jay
+        
+
     }
 }
