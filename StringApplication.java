@@ -18,6 +18,6 @@ public class StringApplication {
          // akta string kisu word o khuje ber kora jay
 
          System.out.println(message.replace("Joy", "ABUL"));
-
+        //string theke akta jinish replace kora jay . eita message variable kee kokhono notun kore upload kore na
     }
 }
