@@ -1,7 +1,7 @@
 
 import java.awt.*;
 public class primitiveVSreferance {
-    public static void main(String[]args) {
+    public static void main(StringApplication[]args) {
        // primitive type variable
 
        /* 

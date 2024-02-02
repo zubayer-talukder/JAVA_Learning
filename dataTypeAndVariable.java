@@ -1,6 +1,6 @@
 public class dataTypeAndVariable {
   
-        public static void main (String [] arguments){
+        public static void main (StringApplication [] arguments){
         // variable_Data_type give_a_name
          int foo;
         foo=324;
@@ -14,7 +14,7 @@ public class dataTypeAndVariable {
         boolean is_january ;
         // boolean variable decleration
 
-        String word =("Joy Bangla Joy bongabondhu ");
+        StringApplication word =("Joy Bangla Joy bongabondhu ");
         // word assignment into a strings method 1
         System.out.println(word);
         word ="Something else ";

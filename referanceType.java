@@ -1,7 +1,7 @@
 import java.util.Date;
 
 public class referanceType {
-    public static void main(String[]args){
+    public static void main(StringApplication[]args){
         Date now= new Date();
         now.getTime();
         // jehetu eita akta referance type variable tai '.' use korley automatic kaj kore fele 

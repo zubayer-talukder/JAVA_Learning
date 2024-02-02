@@ -1,5 +1,5 @@
 public class primitiveVariable {
-    public static void main(String[] args){
+    public static void main(StringApplication[] args){
 byte age =90;
 long viewsCount=4224_42_3_3224_42L;
 //long long e variable er ses e "L" change kore dite hobe

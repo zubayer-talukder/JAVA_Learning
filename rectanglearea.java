@@ -2,7 +2,7 @@
 import java.util.*;
 import java.io.*;
 public  class rectanglearea{
- public static void main (String [] args){
+ public static void main (StringApplication [] args){
 Scanner input = new Scanner (System.in);
 double area, length, breadth ;
 System.out.println( "Enter Length and Breadth : ");
