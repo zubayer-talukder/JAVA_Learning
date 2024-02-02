@@ -16,7 +16,8 @@ public class StringApplication {
          //if index dont find any thing it will print "-1"
          System.out.println(message.indexOf("bondhu"));
          // akta string kisu word o khuje ber kora jay
-         
+
+         System.out.println(message.replace("Joy", "ABUL"));
 
     }
 }
