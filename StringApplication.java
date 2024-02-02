@@ -7,7 +7,7 @@ public class StringApplication {
         System.out.println(word +" "+message);
         // ei vabe merge kora jay string ta  
          System.out.println(message.length());
-         // lenght check kore message er
-         
+         // length check kore message er
+
          }
 }
