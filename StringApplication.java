@@ -10,5 +10,9 @@ public class StringApplication {
          // length check kore message er
         System.out.println(message.startsWith("Joy"));
         System.out.println(message.endsWith("hasina"));
+        System.out.println(word.indexOf("y"));
+        // string theke y er index ber kore dibe
+        
+
     }
 }
