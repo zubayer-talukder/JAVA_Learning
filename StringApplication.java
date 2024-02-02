@@ -8,6 +8,7 @@ public class StringApplication {
         // ei vabe merge kora jay string ta  
          System.out.println(message.length());
          // length check kore message er
-
-         }
+        System.out.println(message.startsWith("Joy"));
+        System.out.println(message.endsWith("hasina"));
+    }
 }
