@@ -12,7 +12,8 @@ public class StringApplication {
         System.out.println(message.endsWith("hasina"));
         System.out.println(word.indexOf("y"));
         // string theke y er index ber kore dibe
-        
+         System.out.println(message.indexOf("bonghu"));
+         //if index dont find any thing it will print "-1"
 
     }
 }
