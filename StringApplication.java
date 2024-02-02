@@ -24,7 +24,13 @@ public class StringApplication {
         // variable er sob gula lower case e nniya jayy
         System.out.println(message.toUpperCase());
         //all variable ke upper case e niya jay
-        
+
+        String newWords="   KoMa janfoii Ksa  ";
+        System.out.println(newWords);
+        // Original Word 
+        System.out.println(newWords.trim());
+        // sokol unnassary white spaces gula remove kore dibe
+
 
     }
 }
