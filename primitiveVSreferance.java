@@ -17,7 +17,9 @@ public class primitiveVSreferance {
          Point point2=point1;
          point1.x=22;
          System.out.println(point2);
-
+         //mone raktte hobe je referance type e sudu arkta memory er value ke referance kore.
+         
+         //onno dik e  primitive type e akta notun memory te value ke create kore oi memory te data store kore
  
     }
 }
