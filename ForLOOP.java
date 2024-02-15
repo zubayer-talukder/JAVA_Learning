@@ -34,7 +34,7 @@ double pi,radious,area;
 radious=50.69;
 pi=3.1416;
 area=pi*radious*radious;
-System.out.println("Area of Circle is: $%.2lf "+area);
+System.out.println("Area of Circle is: "+area);
 
     }
 }
