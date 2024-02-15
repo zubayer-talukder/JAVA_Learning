@@ -1,11 +1,18 @@
 public class ForLOOP {
     
     public static void main(String[] args) {
-        int x;
-        for( x=1;x<=10;x++){
-            System.out.println(x+"."+"Zubayer");
-        }
+        // int x;
+        // for( x=1;x<=10;x++){
+        //     System.out.println(x+"."+"Zubayer");
+        // }
         
+        // this loop for block
+        int x,y=20;
+        for(x=1;x<=10;x++){
+            System.out.println("The  value of x is: "+ x);
+            System.out.println("The value of y is: "+y );
+            y-=2;
+        }
 
     }
 }
