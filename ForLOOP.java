@@ -7,12 +7,26 @@ public class ForLOOP {
         // }
         
         // this loop for block
-        int x,y=20;
+       /*  int x,y=20;
         for(x=1;x<=10;x++){
             System.out.println("The  value of x is: "+ x);
             System.out.println("The value of y is: "+y );
             y-=2;
-        }
+        }*/
+
+    // 3 no problem.
+    int lightSpeed;
+    long days;
+    long seconds;
+    long distance;
+    // approximate speed of light in miles per second
+    lightSpeed=18600;
+    days=1000;
+    seconds=days*24*60*60; //convert to seconds
+    distance= lightSpeed*seconds;// compute distance
+    System.out.println("In"+days);
+    System.out.println("days light will travel about ");
+    System.out.println(distance+"miles.");
 
     }
 }
