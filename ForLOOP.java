@@ -13,7 +13,7 @@ public class ForLOOP {
             System.out.println("The value of y is: "+y );
             y-=2;
         }*/
-
+/*
     // 3 no problem.
     int lightSpeed;
     long days;
@@ -27,7 +27,14 @@ public class ForLOOP {
     System.out.println("In"+days);
     System.out.println("days light will travel about ");
     System.out.println(distance+" miles.");
-    
+*/    
+
+//4. Area of Circle
+double pi,radious,area;
+radious=50.69;
+pi=3.1416;
+area=pi*radious*radious;
+System.out.println("Area of Circle is: "+area);
 
     }
 }
