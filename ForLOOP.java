@@ -1,6 +1,11 @@
 public class ForLOOP {
     
     public static void main(String[] args) {
-        System.out.println("Zubayer");
+        int x;
+        for( x=0;x<10;x++){
+            System.out.println(x"."+"Zubayer");
+        }
+        
+
     }
 }
