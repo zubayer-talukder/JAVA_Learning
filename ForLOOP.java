@@ -25,7 +25,7 @@ public class ForLOOP {
     seconds=days*24*60*60; //convert to seconds
     distance= lightSpeed*seconds;// compute distance
     System.out.println("In"+days);
-    System.out.println("days light will travel about ");
+    System.out.println("days  light will travel about ");
     System.out.println(distance+" miles.");
 */    
 /*
