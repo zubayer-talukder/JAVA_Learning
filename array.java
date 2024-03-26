@@ -32,8 +32,8 @@ public class array {
 
 
         // Array Sorting in Java
-        int [] mango={41,1,12,77,44,84,51,3,20,10};
-        System.out.println("Without Sorted Array display :"+Arrays.toString(mango));
+        int [] mango={4,71,1,12,77,44,84,51,3,20,10};
+        System.out.println("Without Sorted Array display :\n"+Arrays.toString(mango));
         Arrays.sort(mango);
         System.out.println(Arrays.toString(mango));
     }
