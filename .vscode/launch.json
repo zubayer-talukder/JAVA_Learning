@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arithmetics",
+            "request": "launch",
+            "mainClass": "Arithmetics",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        },
+        {
+            "type": "java",
+            "name": "Constants",
+            "request": "launch",
+            "mainClass": "Constants",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        },
+        {
+            "type": "java",
+            "name": "EscapeSequence",
+            "request": "launch",
+            "mainClass": "EscapeSequence",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        },
+        {
+            "type": "java",
+            "name": "ForLOOP",
+            "request": "launch",
+            "mainClass": "ForLOOP",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        },
+        {
+            "type": "java",
+            "name": "ScapeSequence",
+            "request": "launch",
+            "mainClass": "ScapeSequence",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        },
+        {
+            "type": "java",
+            "name": "StringApplication",
+            "request": "launch",
+            "mainClass": "StringApplication",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        },
+        {
+            "type": "java",
+            "name": "multiDimensionalArray",
+            "request": "launch",
+            "mainClass": "multiDimensionalArray",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        }
+    ]
+}
