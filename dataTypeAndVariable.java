@@ -14,7 +14,7 @@ public class dataTypeAndVariable {
         boolean is_january ;
         // boolean variable decleration
 
-        StringApplication word =("Joy Bangla Joy bongabondhu ");
+        String word =("Joy Bangla Joy bongabondhu ");
         // word assignment into a strings method 1
         System.out.println(word);
         word ="Something else ";
