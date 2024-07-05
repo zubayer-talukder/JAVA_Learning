@@ -18,8 +18,11 @@ class Student{
         System.out.println(this.name);
         System.out.println(this.age);
     }
-    Student(){
-        System.out.println("Joy Bangla");
+    Student(String name, int age){
+        this.name=name;
+        this.age =age;
+
+       // System.out.println("Joy Bangla");
     }
 
 }
@@ -38,12 +41,12 @@ public class oop {
         // pen2.write();
         // pen2.printColor();
 
-        Student s1 = new Student();
-        
+        Student s1 = new Student("Zubayer",23);
+
         // Student constracture call korar sathe sathe non-parameterized constracture call kore dibe;
 
-        s1.name="Zubayer";
-        s1.age=22;
+       // s1.name="Zubayer";
+       // s1.age=22;
         s1.printInfo();
     }
 }
