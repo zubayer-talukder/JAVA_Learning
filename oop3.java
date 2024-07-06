@@ -12,16 +12,15 @@ class a{
     private int income;
     // Private: The access level of a private modifier is only within the class. It cannot be accessed from outside the class.
 
-public a(){
+class account(){
     name ="Abdullah Zubayer Talukder";
     age = 34;
     income =999;
-
 }
 }
 public class oop3{
 public static void main (String[] args){
-    a obj1= new a();
+    account obj1= new account();
    System.out.println(obj1.name);
    System.out.println(obj1.age);
    //system.out.println(obj1.income); 
