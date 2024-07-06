@@ -1,3 +1,4 @@
+// Encapsulation 
 class account {
     public String name; //all package + class can access it 
     protected String Email; //all files package. can access it only 
