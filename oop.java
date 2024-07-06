@@ -14,9 +14,17 @@
 class Student{
     String name;
     int age;
-    public void printInfo(){
-        System.out.println(this.name);
-        System.out.println(this.age);
+    public void printInfo(String name){
+        System.out.println(name);
+        
+      
+    }
+    public void printInfo(int age){
+        System.out.println(age);
+    }
+    public void printInfo(String name, int age){
+        System.out.println(name);
+        System.out.println(age);
     }
     Student(String name, int age){
         this.name=name;
@@ -43,10 +51,9 @@ public class oop {
 
         Student s1 = new Student("Zubayer",23);
 
-        // Student constracture call korar sathe sathe non-parameterized constracture call kore dibe;
-
-       // s1.name="Zubayer";
-       // s1.age=22;
-        s1.printInfo();
+       s1.name="Zubayer";
+       s1.age=24;
+        s1.printInfo(s1.age);
+        s1.printInfo(s1.name, s1.age);
     }
 }
