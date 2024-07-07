@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "JAVA_Learning_f9ed4a7b"
+        },
+        {
+            "type": "java",
             "name": "oop3",
             "request": "launch",
             "mainClass": "oop3",

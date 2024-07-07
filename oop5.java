@@ -1,4 +1,4 @@
-// abstraction useage 
+// abstraction usage 
 
 abstract class Animal{
     // blueprint that exist but we cannot do animal actually
